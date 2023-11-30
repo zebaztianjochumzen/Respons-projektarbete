@@ -1,0 +1,24 @@
+123
+Tomatoes
+5
+10
+457
+Cucumber
+23
+20
+126
+Bananas
+6
+50
+345
+Potatoes
+3
+100
+394
+Oranges
+4
+30
+346
+Coca Cola
+19
+300
